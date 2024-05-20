@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+A cross platform weather app built with flutter.
 
 ## Getting Started
 
